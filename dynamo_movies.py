@@ -1,5 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Alex Froslee
+# Version 2
+# This isn't working very well"
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
